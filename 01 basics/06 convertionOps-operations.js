@@ -3,9 +3,9 @@ let negvalue = -value //converts a int value into negative
 //console.log(negvalue)
 /*
 ----basic operations-----
-console.log(2+2);
+console.log(2+2); 
 console.log(2-2);
-console.log(2*2); 
+console.log(2*2);  
 console.log(2/2);
 console.log(2**2);
 
@@ -21,6 +21,6 @@ let str3 = str1 + str2 //combines both strings
 //console.log(2+2+'2');
 
 
-let counter = 0
+let counter = 1
 counter++ // adds one to int value
 //console.log(counter)
