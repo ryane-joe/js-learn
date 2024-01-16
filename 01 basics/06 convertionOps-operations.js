@@ -19,7 +19,7 @@ let str3 = str1 + str2 //combines both strings
 //Due to ecma standards, the first datatype within the parenthesis will be taken with priority, view more(cuz theres alot more to it) at:https://262.ecma-international.org/14.0/#sec-toprimitive
 //console.log('2' + 2 + 2);
 //console.log(2+2+'2');
-
+ 
 
 let counter = 1
 counter++ // adds one to int value
