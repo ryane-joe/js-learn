@@ -12,5 +12,5 @@ string_to_bool = Boolean(empty_string)
  1 => true
  0 => false
  string with content converted into bool => true
- empty string converted into bool => false 
+ empty string converted into bool => false  
 */

@@ -5,7 +5,7 @@ let negvalue = -value //converts a int value into negative
 ----basic operations-----
 console.log(2+2);
 console.log(2-2);
-console.log(2*2);
+console.log(2*2); 
 console.log(2/2);
 console.log(2**2);
 
