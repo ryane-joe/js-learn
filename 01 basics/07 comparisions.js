@@ -5,7 +5,7 @@
 // console.log(2 != 1)
 // console.log(2 <= 1)
 
-
+ 
 // console.log('2' == 2) 
 
 // // will return true however when scaled is not consistence, preffer to compare same datatypes

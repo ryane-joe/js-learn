@@ -28,7 +28,7 @@ let myArray = ['cocaine','herioin','Mdma',420] // arrays
 let myObj = { // objects
     name : 'patrick jane',
     age : 'lookin too young to be that old',
-    kills: 1205405 //idek wanted to put int so ye
+    kills: 1205405 //idek wanted to put int so ye s 
 }
 
 const myFunction = function(){ // functions
