@@ -4,5 +4,5 @@ let area = "epstines island"
 
 //account_ID = 420 [cant because of constant variable]
 //console.log(account_ID)
-//preffer not to use var
+//preffer not to use vars
 console.table([account_ID,account_Email,area]) // prints out in table format
